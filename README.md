@@ -9,6 +9,14 @@
   <img alt="Static Badge" src="https://img.shields.io/github/followers/airlord56?label=follow&style=social">
   <br>
   <img src="https://cdn3.emoji.gg/emojis/3172-minecraft-greenbird.gif" width="64" height="64" alt="minecraft_greenbird">
-  
+
+  <h1>Stats</h1>  
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AirLord56&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AirLord56&show_icons=true" />
+</picture>
 </div>
 
