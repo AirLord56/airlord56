@@ -10,8 +10,8 @@
   <br>
   <img src="https://cdn3.emoji.gg/emojis/3172-minecraft-greenbird.gif" width="64" height="64" alt="minecraft_greenbird">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD0000&background=9FFF1B00&repeat=false&width=60&lines=Stats" alt="STATS" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=BD0000&background=9FFF1B00&repeat=false&width=60&lines=Stats" alt="STATS" /></a>
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AirLord56&theme=shadow-red&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AirLord56&theme=shadow-red&border_radius=5" alt="GitHub Streak" /></a>
 </div>
 
