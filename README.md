@@ -1,6 +1,11 @@
 <!--**AirLord56/airlord56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD0000&background=9FFF1B00&width=435&lines=Welcome+to+my+Github" alt="WELCOME" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD0000&background=9FFF1B00&width=435&lines=Welcome+to+my+Github" alt="WELCOME" />
+  </a>
 </h1>
-<div align="center"><img src="https://cdn3.emoji.gg/emojis/3172-minecraft-greenbird.gif" width="64px" height="64px" alt="minecraft_greenbird"></div>
+
+<div align="center">
+  <img src="https://cdn3.emoji.gg/emojis/3172-minecraft-greenbird.gif" width="64px" height="64px" alt="minecraft_greenbird">
+</div>
 <br>
