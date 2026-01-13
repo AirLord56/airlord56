@@ -12,6 +12,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=BD0000&background=9FFF1B00&repeat=false&width=60&lines=Stats" alt="STATS" /></a>
   <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AirLord56&theme=shadow-red&border_radius=5" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=AirLord56&count_private=true&bg_color=0d1116&title_color=ff0000&text_color=871010&icon_color=871010&showicons=true">
+
 </div>
 
