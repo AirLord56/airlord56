@@ -18,7 +18,7 @@
   <div>
     <img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=AirLord56&count_private=true&ring_color=ff0000&bg_color=0d1116&title_color=ff0000&text_color=871010&icon_color=871010&showicons=true&hide_border=true">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=200&pause=1000&color=BD0000&background=9FFF1B00&repeat=false&width=130&lines=Description" alt="DESCRIPTION" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=200&pause=1000&color=BD0000&background=9FFF1B00&repeat=false&width=130&lines=Description" alt="PRESENTATION" /></a>
   ---
   </div>
   <div>
