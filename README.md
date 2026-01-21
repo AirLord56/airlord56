@@ -41,7 +41,7 @@
     <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
   
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=200&pause=1000&color=BD0000&background=9FFF1B00&repeat=false&width=130&lines=Contact+Me" alt="CONTACT" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=200&pause=1000&color=BD0000&background=9FFF1B00&repeat=false&width=130&lines=Contact+Me" alt="CONTACT_ME" /></a>
   ---
   </div>
   <div>
