@@ -8,7 +8,7 @@
     </h1>
   </div>
   <div>
-    <img src="https://cdn3.emoji.gg/emojis/3172-minecraft-greenbird.gif" width="64" height="64" alt="minecraft_greenbird">
+    <img src="https://cdn3.emoji.gg/emojis/3172-minecraft-greenbird.gif" width="64" height="64" alt="minecraft_greenparrot">
 
     
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=BD0000&background=9FFF1B00&duration=200&repeat=false&width=60&lines=Stats" alt="STATS" /></a>
