@@ -24,8 +24,8 @@
   <div>
     <pre>
     Hi, I'm Aitor 👋
-    An 18-year-old junior developer currently in my first year of Multiplatform Application Development
-    practicing Java, HTML, CSS, JS and a bit of SQL.
+    An 19-year-old junior developer currently in my second year of Multiplatform Application Development (DAM)
+    practicing Java, Kotlin, HTML, CSS, JS and a bit of SQL.
     </pre>
     <img alt="Static Badge" src="https://img.shields.io/github/followers/airlord56?label=follow&style=social">
   
@@ -34,6 +34,7 @@
   </div>
   <div>
     <a href="https://www.java.com/es/"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" /></a>
+    <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
