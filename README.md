@@ -47,7 +47,7 @@
   </div>
   <div>
     <a href="https://discord.com"><img src="https://img.shields.io/badge/airlord56-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://discord.com"><img src="https://img.shields.io/badge/airlord56-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/AirLord56"><img src="https://img.shields.io/badge/airlord56-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
 </div>
 
